@@ -150,8 +150,8 @@ nav.navbar.fixed-to-top{
 /*-----------------------------------------------------------------------------------*/
 
 header{
-	padding: 150px 0px 0px 0px;
-	height: 960px;
+	padding: 50px 0px 0px 0px;
+	height: 860px;
 	background: url('../img/nepal.png');
 	background-color: white!important;
 	background-size: cover;
@@ -194,6 +194,7 @@ header .carousel {
 	margin-left: auto;
 	padding: 95px 0px 0px 4px;
 	width: 282px;
+	min-height: 320px;
 }
 
 header .carousel-indicators .active {
@@ -240,8 +241,8 @@ header .carousel-indicators li {
 
 .payoff{
 	overflow: hidden;
-	padding: 230px 0px 150px 0px;
-	min-height: 600px;
+	padding: 130px 0px 150px 0px;
+	min-height: 400px;
 	background: url('../img/dunes.jpg');
 	background-position: center top;
 	background-repeat: repeat-x;
@@ -348,7 +349,7 @@ header .carousel-indicators li {
 
 .features{
 	overflow: hidden;
-	padding: 150px 0px 150px 0px;
+	padding: 50px 0px 150px 0px;
 	min-height: 400px;
 	color: black;
 }
